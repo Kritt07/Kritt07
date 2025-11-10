@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Анимированный текст "Привет" -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22DDF7&center=true&vCenter=true&width=435&lines=Привет!+👋;Меня+зовут+Максим;Спортсмен+🏐;Разработчик+🎮;Добро+пожаловать!+🚀" alt="Типизирующее приветствие" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22DDF7&center=true&vCenter=true&width=435&lines=Привет!+👋;Меня+зовут+Максим;Спортсмен+🏐;Разработчик+🎮;Студент+УРФУ+🎓;Добро+пожаловать!+🚀" alt="Типизирующее приветствие" />
 
 </div>
 
@@ -12,6 +12,19 @@
 > *"Чиловый парень, спортсмен, программист"*
 
 Меня зовут **Дудин Максим Андреевич**. Я совмещаю страсть к спорту, особенно к волейболу 🏐, с любовью к программированию и разработке игр. Моя цель — создавать крутые и захватывающие проекты, которые приносят удовольствие людям.
+
+---
+
+<!-- Новый блок про учебу -->
+## 🎓 Мое образование
+
+**🏫 Уральский федеральный университет**  
+**🎯 ИРИТ-РТФ**  
+**💻 Направление: Прикладная информатика**  
+**📚 1 курс**
+
+
+Учусь на одном из самых перспективных IT-направлений, где сочетается теория и практика в области разработки программного обеспечения, анализа данных и создания информационных систем.
 
 ---
 
@@ -35,6 +48,7 @@
 
 ### 🎮 Игровые движки
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### 🏐 Волейбол
 ![Командная игра](https://img.shields.io/badge/🏐-Командная_игра-orange)
@@ -63,10 +77,8 @@
 
 ## 📊 Статистика GitHub
 
-<!-- ВСТАВЬТЕ СЮДА СВОЙ РЕАЛЬНЫЙ USERNAME -->
 ![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritt07&show_icons=true&theme=radical)
 
-<!-- Дополнительная статистика с самыми используемыми языками -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritt07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
