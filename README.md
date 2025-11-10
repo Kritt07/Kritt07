@@ -69,10 +69,6 @@
 <!-- Дополнительная статистика с самыми используемыми языками -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritt07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-<!-- Анимированный змейка, поедающая ваш вклад -->
-![Snake animation](https://github.com/Kritt07/Kritt07/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
