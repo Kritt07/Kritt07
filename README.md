@@ -1,16 +1,86 @@
-## Hi there 👋
+<!-- Анимированная шапка с приветствием -->
+<div align="center">
 
-<!--
-**Kritt07/Kritt07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Анимированный текст "Привет" -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22DDF7&center=true&vCenter=true&width=435&lines=Привет!+👋;Меня+зовут+Максим;Спортсмен+🏐;Разработчик+🎮;Добро+пожаловать!+🚀" alt="Типизирующее приветствие" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Обо мне с иконками -->
+# 🧑‍💻 Обо мне
+
+> *"Чиловый парень, спортсмен, программист"*
+
+Меня зовут **Дудин Максим Андреевич**. Я совмещаю страсть к спорту, особенно к волейболу 🏐, с любовью к программированию и разработке игр. Моя цель — создавать крутые и захватывающие проекты, которые приносят удовольствие людям.
+
+---
+
+<!-- Раздел интересов с кастомными иконками -->
+## 🎯 Мои интересы
+
+&nbsp; <!-- Отступ для выравнивания -->
+
+* **🏐 Волейбол** — Любовь к командной игре и спортивному соперничеству.
+* **🎮 Видеоигры** — Играю для вдохновения и изучаю геймдизайн.
+* **🛠️ Разработка видеоигр** — Превращаю идеи в интерактивные миры.
+
+---
+
+<!-- Раздел навыков с прогресс-барами -->
+## 🛠️ Мои навыки
+
+### 💻 Языки программирования
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🎮 Игровые движки
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+### 🏐 Волейбол
+![Командная игра](https://img.shields.io/badge/🏐-Командная_игра-orange)
+![Подача](https://img.shields.io/badge/🎯-Подача-success)
+![Атака](https://img.shields.io/badge/⚡-Атака-red)
+
+---
+
+<!-- Интерактивное расписание с эмодзи -->
+## 🗓️ Мое расписание
+
+| № | Понедельник | Вторник | Среда | Четверг | Пятница |
+|---|-------------|---------|-------|---------|---------|
+| 1 | | 🎨 **Основы проектной деятельности** (Практика) | 📊 **Математика** (Лекция) | ⚙️ **АГиТДУ** (Лекция) | 🏢 **ОРГ** (Практика) |
+| 2 | | 🌐 **Разработка веб-приложений** (Лаб) | 💻 **Вайб-кодинг** (Лаб) | | |
+| 3 | | 🏃 **Прикладная физкультура** (Практика) | 🌍 **Иностранный язык** (Практика) | 🏃 **Прикладная физкультура** (Практика) | |
+| 4 | ⚙️ **АГиТДУ** (Практика) | | 🔌 **АВС** (Практика) | | |
+| 5 | 📊 **Математика** (Практика) | | | | |
+| 6 | 📊 **Математика** (Практика) | 👨‍💻 **Программирование** (Онлайн) | | | |
+| 7 | | 👨‍💻 **Программирование** (Онлайн) | | | |
+
+---
+
+<!-- Статистика GitHub -->
+<div align="center">
+
+## 📊 Статистика GitHub
+
+<!-- ВСТАВЬТЕ СЮДА СВОЙ РЕАЛЬНЫЙ USERNAME -->
+![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritt07&show_icons=true&theme=radical)
+
+<!-- Дополнительная статистика с самыми используемыми языками -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritt07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<!-- Анимированный змейка, поедающая ваш вклад -->
+![Snake animation](https://github.com/Kritt07/Kritt07/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Как со мной связаться?
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Kritt07)
+[![VK](https://img.shields.io/badge/ВКонтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id543533715)
+
+</div>
