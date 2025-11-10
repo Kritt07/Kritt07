@@ -76,7 +76,7 @@
 <div align="center">
 
 ### 📫 Как со мной связаться?
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Kritt07)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kritt07)
 [![VK](https://img.shields.io/badge/ВКонтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id543533715)
 
 </div>
