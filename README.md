@@ -71,17 +71,6 @@
 
 ---
 
-<!-- Статистика GitHub -->
-<div align="center">
-
-## 📊 Статистика GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritt07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Как со мной связаться?
