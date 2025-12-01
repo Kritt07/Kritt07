@@ -48,7 +48,6 @@
 
 ### 🎮 Игровые движки
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### 🏐 Волейбол
 ![Командная игра](https://img.shields.io/badge/🏐-Командная_игра-orange)
@@ -76,8 +75,6 @@
 <div align="center">
 
 ## 📊 Статистика GitHub
-
-![Maxim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kritt07&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritt07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
